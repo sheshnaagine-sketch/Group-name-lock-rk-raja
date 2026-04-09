@@ -18,8 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "1586964445726562";        // Group ka ID
-const LOCKED_GROUP_NAME = "MR SURAJ URD UADDIN V/S KARTIK DATE 06/04/26🥀🤍 🤡👈";     // Locked name
+const GROUP_THREAD_ID = "1356955549786708";        // Group ka ID
+const LOCKED_GROUP_NAME = "VIKKU JOKER POIW🥀🤍 🤡👈";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
